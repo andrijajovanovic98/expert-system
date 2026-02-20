@@ -2,3 +2,4 @@ __pycache__/
 .expert_system_history
 *.dot
 *.png
+!screenshots/*.png
