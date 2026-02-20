@@ -1,0 +1,11 @@
+# Bonus 5: XOR in Conclusions
+# A => B ^ C means "if A, then exactly one of B or C is true (but which?)"
+# Both become UNDETERMINED since we can't determine which one.
+# D is false, so E^F doesn't fire.
+
+A => B ^ C
+D => E ^ F
+
+=A
+
+?BCDEF

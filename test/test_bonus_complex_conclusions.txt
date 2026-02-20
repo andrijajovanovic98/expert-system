@@ -1,0 +1,13 @@
+# Bonus 8: Complex Conclusions Showdown
+# Multiple rules with OR/XOR in conclusions.
+# Only A, B, E are given as facts.
+# H, I, L, M are false — those rules don't fire.
+
+A + B => C | D
+E => F ^ G
+H | I => J | K
+L ^ M => N ^ O
+
+=ABE
+
+?CDEFGHIJKLMNO

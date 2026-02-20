@@ -1,0 +1,24 @@
+# Bonus 9: THE ULTIMATE TEST
+# Every feature combined: AND, OR, XOR, NOT, <=>, parentheses,
+# complex conclusions, negation in conclusions.
+# 20 facts to predict. Good luck!
+
+# Biconditional rules
+A <=> B
+C + D <=> E
+
+# OR in conclusions
+F => G | H
+I + J => K | L | M
+
+# XOR in conclusions
+N => O ^ P
+Q => R ^ S ^ T
+
+# Mixed complex rules
+(A | B) + C => D | E
+F ^ G <=> H + I
+
+=ACDFIJNQ
+
+?ABCDEFGHIJKLMNOPQRST

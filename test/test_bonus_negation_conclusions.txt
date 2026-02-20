@@ -1,0 +1,13 @@
+# Bonus 7: Negation in Conclusions
+# Negations can appear INSIDE OR/XOR conclusions!
+# A => !B | C means "if A, then NOT-B or C"
+# This makes both outcomes undetermined.
+# D => E ^ !F means "if D, then E xor not-F"
+
+A => !B | C
+D => E ^ !F
+G => !H | !I
+
+=AD
+
+?ABCDEFGHI

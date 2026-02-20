@@ -1,0 +1,11 @@
+# Bonus 3: Long Biconditional Chain
+# A <=> B <=> C <=> D
+# If A is true, does D become true too?
+
+A <=> B
+B <=> C
+C <=> D
+
+=A
+
+?ABCD

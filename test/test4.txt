@@ -1,0 +1,11 @@
+# Level 4: AND Conditions
+# Both A AND B must be true for C to follow.
+# Then C and D together give E.
+
+A + B => C
+C + B => D
+C + D => E
+
+=AB
+
+?CDE

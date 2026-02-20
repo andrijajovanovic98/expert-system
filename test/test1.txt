@@ -1,0 +1,9 @@
+# Level 1: The Basics
+# One simple rule: if A then B.
+# A is true. What about A and B?
+
+A => B
+
+=A
+
+?AB

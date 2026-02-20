@@ -1,0 +1,10 @@
+# Level 3: Nothing is True
+# There are rules, but NO initial facts are set.
+# What happens when nothing is given?
+
+A => B
+B => C
+
+=
+
+?ABC

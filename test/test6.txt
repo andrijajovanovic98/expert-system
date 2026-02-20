@@ -1,0 +1,12 @@
+# Level 6: NOT So Simple
+# Negation enters the game.
+# A is true, so B is true.
+# !B means "B is false" — is C true or false?
+
+A => B
+!B => C
+A + !C => D
+
+=A
+
+?ABCD

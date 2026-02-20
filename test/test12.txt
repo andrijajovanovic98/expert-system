@@ -1,0 +1,16 @@
+# Level 12: The Grand Challenge
+# All operators combined in one puzzle.
+# Think step by step!
+
+A + B => C           # AND condition
+C | D => E           # OR condition
+E + !F => G          # NOT in condition
+G ^ H => I           # XOR (H is false so G^H = true)
+I => J + K           # AND in conclusion
+J <=> L              # Biconditional
+(A | B) + (C | D) => M
+!(A + B) => N        # NOT of AND: A+B is true, so !(A+B) is false
+
+=AB
+
+?CEGIJKLMN

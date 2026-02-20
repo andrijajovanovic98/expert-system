@@ -1,0 +1,12 @@
+# Level 9: XOR — Exclusive Or
+# A XOR B means exactly one is true, not both.
+# A is true, B is false → A ^ B is true.
+# C and D: C is true, D is true → C ^ D is false!
+
+A ^ B => C
+A => D
+C ^ D => E
+
+=A
+
+?ACDE

@@ -1,0 +1,11 @@
+# Level 2: Chain Reaction
+# Rules form a chain: A implies B, B implies C, C implies D.
+# If A is true, does the truth travel all the way?
+
+A => B
+B => C
+C => D
+
+=A
+
+?ABCD

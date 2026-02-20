@@ -1,0 +1,11 @@
+# Level 5: Either Way (OR conditions)
+# A OR B is enough for C.
+# Only A is given — does C become true?
+# What about D, which has no rule?
+
+A | B => C
+C => D
+
+=A
+
+?ACD

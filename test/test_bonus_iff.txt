@@ -1,0 +1,9 @@
+# Bonus 1: Simple Biconditional
+# A <=> B means they share the same truth value.
+# A is true. What about B?
+
+A <=> B
+
+=A
+
+?AB

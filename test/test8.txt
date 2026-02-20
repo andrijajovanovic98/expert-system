@@ -1,0 +1,12 @@
+# Level 8: Brackets Matter (Parentheses)
+# Parentheses change the grouping.
+# (A + B) | C  means "(A AND B) OR C"
+# A + (B | C)  means "A AND (B OR C)"
+# Only A and C are true. Think carefully!
+
+(A + B) | C => D
+A + (B | C) => E
+
+=AC
+
+?DE

@@ -1,0 +1,12 @@
+# Bonus 6: Complex Biconditionals
+# Biconditionals with compound expressions on both sides.
+# A+B <=> C+D : A AND B are true, so C AND D must be true too.
+# E|F <=> G : E and F are both false, so ask about G.
+
+A + B <=> C + D
+E | F <=> G
+H ^ I <=> J
+
+=AB
+
+?CDEFGHIJ

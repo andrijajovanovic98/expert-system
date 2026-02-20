@@ -1,0 +1,12 @@
+# Level 11: Two for One (AND in conclusions)
+# A single rule can conclude MULTIPLE facts at once.
+# A => B + C means "if A then both B AND C."
+
+A => B + C
+B => D
+C => E
+D + E => F
+
+=A
+
+?ABCDEF

@@ -1,0 +1,12 @@
+# Level 10: If and Only If (Biconditional)
+# A <=> B means: A is true IF AND ONLY IF B is true.
+# They must have the SAME truth value.
+# The chain propagates both ways.
+
+A <=> B
+B <=> C
+C => D
+
+=A
+
+?ABCD

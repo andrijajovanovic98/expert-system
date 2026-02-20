@@ -1,0 +1,11 @@
+# Bonus 4: OR in Conclusions
+# A => B | C means "if A, then B or C (but we don't know which!)"
+# Both B and C become UNDETERMINED.
+# D is false, so E|F|G rule doesn't fire.
+
+A => B | C
+D => E | F | G
+
+=A
+
+?BCDEFG

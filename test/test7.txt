@@ -1,0 +1,11 @@
+# Level 7: Two Roads (Multiple Rules, Same Conclusion)
+# C can be proven true by EITHER rule.
+# Only A is given (not B). Is C still true?
+
+A => C
+B => C
+C => D
+
+=A
+
+?CD
