@@ -20,6 +20,17 @@ This is a 42 School project that implements an expert system capable of:
 
 **Version**: 3.3
 
+## Screenshots
+
+### Rule Editor
+![Rule Editor](screenshots/ui_editor.png)
+
+### Query Results
+![Query Results](screenshots/ui_results.png)
+
+### Reasoning Visualization
+![Reasoning Visualization](screenshots/ui_reasoning.png)
+
 ## Features
 
 ### Core Architecture
