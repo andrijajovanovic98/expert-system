@@ -18,7 +18,7 @@ This is a 42 School project that implements an expert system capable of:
 
 **Summary**: The goal of this project is to create an expert system for propositional calculus.
 
-**Version**: 3.2
+**Version**: 3.3
 
 ## Features
 
